@@ -11,9 +11,9 @@ import { Appointment, AppointmentStatus } from '@/types';
 const mockAppointments: Appointment[] = [
   {
     id: '1',
-    patientId: 'patient1',
+    patientId: 'Juanito Perez',
     professionalId: 'professional1',
-    serviceId: 'service1',
+    serviceId: 'Psicoterapia',
     date: new Date(2025, 3, 16, 10, 0), // April 16, 2025 at 10:00
     startTime: '10:00',
     endTime: '10:30',
@@ -23,9 +23,9 @@ const mockAppointments: Appointment[] = [
   },
   {
     id: '2',
-    patientId: 'patient2',
+    patientId: 'Nuria Garcia',
     professionalId: 'professional1',
-    serviceId: 'service2',
+    serviceId: 'Psicoterapia',
     date: new Date(2025, 3, 16, 11, 30), // April 16, 2025 at 11:30
     startTime: '11:30',
     endTime: '12:00',

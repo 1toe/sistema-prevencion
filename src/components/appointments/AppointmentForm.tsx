@@ -30,18 +30,16 @@ import { toast } from "@/components/ui/sonner";
 import { CalendarIcon } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
-// Mock data
+// Datos de prueba
 const mockProfessionals = [
   { id: 'professional1', name: 'Dr. Gonzalez', specialty: 'Medicina General' },
   { id: 'professional2', name: 'Dra. Rodriguez', specialty: 'Psicología' },
-  { id: 'professional3', name: 'Dr. Sanchez', specialty: 'Nutrición' },
 ];
 
 const mockServices = [
   { id: 'service1', name: 'Consulta General', duration: 30 },
   { id: 'service2', name: 'Test de VIH', duration: 20 },
   { id: 'service3', name: 'Evaluación Psicológica', duration: 45 },
-  { id: 'service4', name: 'Asesoría Nutricional', duration: 30 },
 ];
 
 const mockPatients = [
