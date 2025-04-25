@@ -17,13 +17,11 @@
 
 ## Requisitos No Funcionales
 
-1. **Rendimiento:**
-   - Tiempo de carga < 3 s en la mayoría de las operaciones.
-2. **Seguridad:**
+1. **Seguridad:**
    - Autenticación y autorización robustas, cifrado de datos sensibles.
-3. **Escalabilidad:**
+2. **Escalabilidad:**
    - Arquitectura que permita crecer según número de usuarios y servicios.
-4. **Usabilidad:**
+3. **Usabilidad:**
    - Interfaz clara, accesible y responsive (móvil, tablet y desktop).
-5. **Mantenibilidad:**
+4. **Mantenibilidad:**
    - Código modular, documentación y pruebas automatizadas.

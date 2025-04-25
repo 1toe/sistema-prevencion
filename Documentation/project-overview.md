@@ -1,5 +1,5 @@
 
-# Visión General del Proyecto Web
+# Visión General del Proyecto Web Responsivo
 
 ## Visión
 
@@ -8,7 +8,7 @@ Desarrollar una plataforma web integral que permita a la ONG automatizar y estru
 ## Objetivos Principales
 
 1. **Agendamiento intuitivo:**
-   - Interfaz web para que los usuarios reserven horas en tiempo real **sin** depender de WhatsApp.
+   - Interfaz web para que los usuarios reserven horas en tiempo real.
 2. **Aliviar carga operativa:**
    - Automatizar confirmaciones, recordatorios y bloqueos de franjas horarias.
 3. **Protección de datos clínicos:**
@@ -18,7 +18,7 @@ Desarrollar una plataforma web integral que permita a la ONG automatizar y estru
 
 ## Problemas a Resolver
 
-- Citas solicitadas fuera de horario (madrugada).
+- Citas solicitadas fuera de horario definido (ej: Madrugrada).
 - Ausencia de calendario oficial con disponibilidad.
-- Agendamientos inválidos (ej. test de VIH los miércoles).
+- Agendamientos inválidos.
 - Sobrecarga de trabajo manual y errores frecuentes.
